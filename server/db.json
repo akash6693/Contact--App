@@ -1,0 +1,24 @@
+{
+    "contacts" :[
+        {
+            "id" : "1qwe",
+            "name" : "Akash",
+            "photo" : "https://cdn4.iconfinder.com/data/icons/small-n-flat/24/user-512.png",
+            "phone" : "9325893259",
+            "type" : "1",
+            "Is Watsapp" : "0"
+
+
+        }
+    ],
+    "type":[
+        {
+            "id": "1"
+            "type" : "Personal"
+        },
+        {
+            "id": "2"
+            "type" : "Office"
+        }
+    ]
+}
